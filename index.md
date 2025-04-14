@@ -1,7 +1,7 @@
 ---
 title: Welcome to my blog
 ---
-
+This is sample  html markup
 <!doctype html>
 <html>
   <head>
